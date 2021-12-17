@@ -1,5 +1,3 @@
-# kickstarter-analysis
-Bootcamp: Kickstart
 # Kickstarting with Excel
 
 ## Overview of Project
