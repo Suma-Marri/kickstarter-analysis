@@ -15,6 +15,7 @@ According to out line grpah in Theater_Outcomes_vs_Launch.png, shows that the be
 According to the analysis in the file Outcome_vs_Goals.png, the lower the goal, higher the chances of successfully reaching that goal. As shown in the line graph, you can see that once you have over $10,000 goal, the success rate is lower than the failed or cancel rate. With Louise's budget of $10,000, she has a high chance of successfully reaching her goal price. However, if she is still concenered with her chnaces of reaching her goal, she needs to put a little more effort or decrease her budget a little. 
 
 ### Challenges and Difficulties Encountered
+Something I had trouble with was when I was creating the analysis on the outcomes based on goals, I noticed that after creating the chart, there were lots of records missing. I decided to change most of the formulas I used from less than (<) to less than and equal to (<=) and greater than (>) to greater than or equal to (>=). By doing so, I was able to get more records in the analysis and make my analysis more accurate. 
 
 ## Results
 
