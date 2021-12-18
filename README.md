@@ -32,8 +32,8 @@ There is a higher chance that the campaign with be successful with lower goal am
 
 - What are some limitations of this dataset?
 
-One problem is that the range in the goals column is a large range, so graph will not have percise information. Also, we can also add another filter on country, so that way we can see if it is more successful or failed in one country.
+One problem is that the range in the goals column is a large range, so graph will not have percise information. Also, we can also add another filter on country, so that way we can see if it is more successful or failed in one country. When we anaylzed the correlation between launch date and outcome, we took an analysis from 2009 to 2017. Maybe from 2009 to 2015, May was a very successful time, but in 2016 to 2017 was not and April would seem a better time to lauch a crowdfund campaign becuase the fail rate is really low. We could get a better conclusion if we filtered out the years.
 
 - What are some other possible tables and/or graphs that we could create?
 
-We can create a table and chart on how much more did they pledged. Did the failed crowdfunding campaigns close to their goal? Did the successful crowdfunding campaigns barely passed their goal? I think that a scatterplot comparing with the goal and the profit amount would be a great way to see what makes the 
+We can create a table and chart on how much more did they pledged. Did the failed crowdfunding campaigns close to their goal? Did the successful crowdfunding campaigns barely passed their goal? I think that a dot plot comparing with the goal and the profit amount would be a great way to see what makes is the best goal range. We could also compare the goal price and launch date with successful campaigns and also calulate the mean, mode, median, variance, and standard deviation to see the spread of the data. We can also plot the comarison on a scatterplot and get a linear regression to get the correlation between launch date and goals with campaign success.
