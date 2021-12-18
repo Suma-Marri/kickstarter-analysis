@@ -8,6 +8,7 @@ Before she starts anything, she wants to analyze pervious crowdfunding data to s
 
 ## Analysis and Challenges
 [Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+
 [Outcome_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Launch Date
