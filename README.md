@@ -18,13 +18,13 @@ According to out line grpah in Theater_Outcomes_vs_Launch.png, shows that the be
 According to the analysis in the file Outcomes_vs_Goals.png, the lower the goal, higher the chances of successfully reaching that goal. As shown in the line graph, you can see that if you have a $10,000 goal, the success rate is higher than the failed and cancel rate. With Louise's budget of $10,000, she has a high chance of successfully reaching her goal price. 
 
 ### Challenges and Difficulties Encountered
-Something I had trouble with was when I was creating the analysis on the outcomes based on goals, I noticed that after creating the chart, there were lots of records missing. I decided to change most of the formulas I used from less than (<) to less than and equal to (<=) and greater than (>) to greater than or equal to (>=). By doing so, I was able to get 4 more records in the analysis and make my analysis more accurate. 
+Something I had trouble with was when I was creating the analysis on the outcomes based on goals, I noticed that after creating the chart, there were lots of records missing. I decided to change most of the formulas I used from less than (<) to less than and equal to (<=) and greater than (>) to greater than or equal to (>=). By doing so, I was able to get more records in the analysis and make my analysis more accurate. 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The best time to start a theater crowdfunding campaign is during the month of May. 
+The best time to start a theater crowdfunding campaign is during the month of May and the worst time would be in January. I think that September - March time should be avoided because that is when the success rate is the lowest. 
 
 - What can you conclude about the Outcomes based on Goals?
 
@@ -36,4 +36,4 @@ One problem is that the range in the goals column is a large range, so graph wil
 
 - What are some other possible tables and/or graphs that we could create?
 
-We can create a table and chart on how much more did they pledged. Did the failed crowdfunding campaigns close to their goal? Did the successful crowdfunding campaigns barely passed their goal?
+We can create a table and chart on how much more did they pledged. Did the failed crowdfunding campaigns close to their goal? Did the successful crowdfunding campaigns barely passed their goal? I think that a scatterplot comparing with the goal and the profit amount would be a great way to see what makes the 
