@@ -7,6 +7,7 @@ Louise is a playwright who wants to kickstart a crowdfunding campaign to help fu
 Before she starts anything, she wants to analyze pervious crowdfunding data to see if there are any factors that a crowdfund campaign successful or not. We made multiple charts and graphs to predit the best tips st atart her campaign. 
 
 ## Analysis and Challenges
+[Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 [Outcome_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Launch Date
