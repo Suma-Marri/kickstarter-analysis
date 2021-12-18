@@ -23,13 +23,17 @@ Something I had trouble with was when I was creating the analysis on the outcome
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The best time to start a theater crowdfunding campaign is during the month of May. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 There is a higher chance that the campaign with be successful with lower goal amount. Once the goal is over $15,000, the success rate starts to decrease and there is a higher risk of failure. However, you can see that there is a higher success rate between $35,000 to $45,000. I beleieve that this happens because they know that their goal is really high, they probably planned the event and have the connections to run the crowdfunding campaign successfully.
 
 - What are some limitations of this dataset?
-One problem is that the range in the goals column is a large range, so graph will not have percise information. Also, we can also add another filter on country.
+
+One problem is that the range in the goals column is a large range, so graph will not have percise information. Also, we can also add another filter on country, so that way we can see if it is more successful or failed in one country.
 
 - What are some other possible tables and/or graphs that we could create?
-We can create a table and chart on 
+
+We can create a table and chart on how much more did they pledged. Did the failed crowdfunding campaigns close to their goal? Did the successful crowdfunding campaigns barely passed their goal?
